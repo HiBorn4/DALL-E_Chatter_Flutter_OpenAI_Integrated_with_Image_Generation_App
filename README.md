@@ -5,13 +5,9 @@
 The Voice Assistant App with ChatGPT & DALL-E AI Image Generation is a cutting-edge Flutter application that combines the power of AI-driven voice interaction with creative image generation. This app allows users to communicate with their device naturally through voice commands, and it responds with ChatGPT for human-like text and DALL-E for generating images based on textual descriptions.
 
 <p align="center">
-  <table>
-    <tr>
       <td style="padding-right: 20">
         <img src="assets/images/app.png" alt="App Screenshot " width="480">
       </td>
-    </tr>
-  </table>
 </p>
 
 ## Features
