@@ -6,7 +6,7 @@ The Voice Assistant App with ChatGPT & DALL-E AI Image Generation is a cutting-e
 
 <p align="center">
       <td style="padding-right: 20">
-        <img src="assets/images/app.png" alt="App Screenshot " width="480">
+        <img src="assets/images/app.png" alt="App Screenshot " width="350">
       </td>
 </p>
 
